@@ -1,0 +1,15 @@
+HIFK;73
+Ässät;72
+Lukko;95
+HPK;67
+Tappara;84
+KooKoo;62
+Pelicans;81
+Sport;58
+JYP;55
+Ilves;81
+KalPa;79
+SaiPa;39
+Kärpät;78
+TPS;76
+Jukurit;62

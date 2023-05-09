@@ -1,0 +1,19 @@
+Dallas Fuel;26
+San Francisco Shock;26
+Los Angeles Gladiators;25
+Houston Outlaws;19
+Atlanta Reign;16
+London Spitfire;16
+Florida Mayhem;15
+Toronto Defiant;15
+Washington Justice;13
+Boston Uprising;10
+Vancouver Titans;6
+New York Excelsior;4
+Paris Eternal;1
+Seoul Dynasty;25
+Shanghai Dragons;23
+Philadelphia Fusion;15
+Hangzhou Spark;13
+Chengdu Hunters;9
+Los Angeles Valiant;7
